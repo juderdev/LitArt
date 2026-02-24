@@ -1,6 +1,6 @@
 # LitArt
 
-> Literature Inspired Art Community - Visit it at [LitArt](https://LitArt.herokuapp.com/).
+> Literature Inspired Art Community.
 
 ## Description
 
