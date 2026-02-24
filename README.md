@@ -1,6 +1,6 @@
-# BookwormArt
+# LitArt
 
-> Literature Inspired Art Community - Visit it at [BookwormArt](https://bookwormart.herokuapp.com/).
+> Literature Inspired Art Community - Visit it at [LitArt](https://LitArt.herokuapp.com/).
 
 ## Description
 
@@ -8,7 +8,7 @@ Personal project developed with MEVN stack, specifically Mongoose (and MongoDB A
 
 ## Preview
 
-![BookwormArt Preview](https://res.cloudinary.com/drdwtcsc4/image/upload/v1592061923/Others/2020-06-13_17-23-58_hxlk9e.gif "BookwormArt Preview")
+![LitArt Preview](https://res.cloudinary.com/drdwtcsc4/image/upload/v1592061923/Others/2020-06-13_17-23-58_hxlk9e.gif "LitArt Preview")
 Website Deployed with Heroku.
 
 ## Build Setup
